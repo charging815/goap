@@ -5,6 +5,8 @@
 ## Roadmap
 - [ ] Goals
 - [ ] Actions
+  - [ ] Preconditions
+  - [ ] Effects
 - [ ] World State
 - [ ] Goal Selection
 - [ ] Planning
